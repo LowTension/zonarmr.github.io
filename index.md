@@ -1,5 +1,6 @@
-## Privacy Policy
+## Welcome
 
-Your data is your data. 
-**I do not and will not and have never collected your personal or sensitive data.**
+![MarineGEO circle logo](/assets/images/logo.png "logo")
+
+**Page under construction**
 
